@@ -1,4 +1,7 @@
 {
   "cssTheme": "GitHub Theme",
-  "accentColor": "#9257ff"
+  "accentColor": "#9257ff",
+  "enabledCssSnippets": [
+    "theme-override"
+  ]
 }
