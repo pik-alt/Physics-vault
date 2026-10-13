@@ -2,6 +2,7 @@
   "cssTheme": "GitHub Theme",
   "accentColor": "#9257ff",
   "enabledCssSnippets": [
-    "theme-override"
+    "theme-override",
+    "theme-overrise"
   ]
 }
