@@ -1,3 +1,4 @@
+(These are polar vectors in cartesian co-ordinates, for polar co-ordinated see [[Polar Co-ordinates]])
 $(x,y) \to (r,\theta)$, they both express $\underline{r}$
 
 $\underline{r} = r(\cos(\theta)\hat{\underline{i}} + \sin(\theta)\hat{\underline{j}})$
