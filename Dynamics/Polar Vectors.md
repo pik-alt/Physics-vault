@@ -1,3 +1,4 @@
+(These are polar vectors in cartesian co-ordinates, for polar co-ordinated see [[Polar Co-ordinates]])
 $(x,y) \to (r,\theta)$, they both express $\underline{r}$
 
 $\underline{r} = r(\cos(\theta)\hat{\underline{i}} + \sin(\theta)\hat{\underline{j}})$
@@ -53,6 +54,12 @@ $\left( \frac{d}{dt} \dot{r}\right)\hat{\underline{r}} +\left( \frac{d}{dt}\hat{
 $\underline{a} = (\ddot{r} -r \ddot{\theta})\hat{\underline{r}} + (2\dot{r}\ddot{\theta} +r \ddot{\theta})\hat{\underline{\theta}}$
 
 
+---
+### Changing frames of reference to help solve dynamics problems
+
+If you are looking at two or more particles that are moving with relation to the ground or stationary frame, you can often simplify the problem by looking at the reference frame to one of the particles.
+
+You do this by realising that the particle in its own frame of reference is stationary, so it (and so everything else in the system) must be given a velocity vector equal and opposite to the velocity of the particle in question.
 
 
 
