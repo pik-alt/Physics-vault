@@ -94,6 +94,21 @@ $\begin{pmatrix}A\\B\\C\end{pmatrix} \cdot \begin{pmatrix}X\\Y\\Z\end{pmatrix} =
 
 
 
+## Even and Odd Function
+
+$f(x)$ is odd if:
+$f(-x) = -f(x)$
+
+a.k.a. it's symmetrical from $y=-x$
+
+
+$f(x)$ is even if:
+$f(x) = f(-x)$
+
+a.k.a it's symmetrical between $x=0$
+
+
+
 
 
 
