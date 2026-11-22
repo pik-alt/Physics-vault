@@ -218,7 +218,8 @@ var Qd=Object.create;var Jn=Object.defineProperty,kd=Object.defineProperties,$d=
 
     // Symbols
     {trigger: "ooo", replacement: "\\\\infty", options: "mA"},
-	{trigger: "sum", replacement: "\\\\sum", options: "mA"},
+    //	{trigger: "sum", replacement: "\\\\sum", options: "mA"},
+	{trigger: "sum", replacement: "\\\\displaystyle \\\\sum_{\${0:i}=\${1:1}}^{\${2:N}} $3", options: "m"},
 	{trigger: "prod", replacement: "\\\\prod", options: "mA"},
 	{trigger: "\\\\sum", replacement: "\\\\sum_{\${0:i}=\${1:1}}^{\${2:N}} $3", options: "m"},
 	{trigger: "\\\\prod", replacement: "\\\\prod_{\${0:i}=\${1:1}}^{\${2:N}} $3", options: "m"},

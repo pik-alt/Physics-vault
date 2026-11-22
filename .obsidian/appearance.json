@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "theme-override",
     "theme-overrise"
-  ]
+  ],
+  "showRibbon": true
 }
