@@ -1,9 +1,0 @@
-{
-  "cssTheme": "GitHub Theme",
-  "accentColor": "#9257ff",
-  "enabledCssSnippets": [
-    "theme-override",
-    "theme-overrise"
-  ],
-  "showRibbon": true
-}
